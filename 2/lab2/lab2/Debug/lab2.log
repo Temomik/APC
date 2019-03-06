@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+c:\4_part\апк\2\lab2\lab2\lab2.cpp(3): warning C4164: __rdtsc: подставляемая функция не объявлена
+  lab2.vcxproj -> C:\4_part\апк\2\lab2\Debug\lab2.exe
